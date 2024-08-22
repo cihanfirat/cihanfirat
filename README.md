@@ -5,19 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihanfirat&label=Profile%20views&color=0e75b6&style=flat" alt="cihanfirat" /> </p>
 
-- 🔭 I’m currently studying on **Sabahattin Zaim University**
+- 🔭 I’m currently student at **Sabahattin Zaim University**
 
-- 🌱 I’m currently learning **C++,Python,HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **C++,Python,HTML,CSS,JavaScript,Devops and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cihanfirat?tab=repositories](https://github.com/cihanfirat?tab=repositories)
-
-- 📝 I regularly write articles on [Software, Math or hobbies.](Software, Math or hobbies.)
-
+- 
 - 💬 Ask me about **my projects that I shared in my repository**
 
 - 📫 How to reach me **cihan.firat44@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cihan-f%C4%B1rat-27362a237/](https://www.linkedin.com/in/cihan-f%C4%B1rat-27362a237/)
+- 📄 Want to know about my experiences [https://www.linkedin.com/in/cihan-f%C4%B1rat-27362a237/](https://www.linkedin.com/in/cihan-f%C4%B1rat-27362a237/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
