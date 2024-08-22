@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **C++,Python,HTML,CSS,JavaScript,Devops and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cihanfirat?tab=repositories](https://github.com/cihanfirat?tab=repositories)
-- 
+  
 - 💬 Ask me about **my projects that I shared in my repository**
 
 - 📫 How to reach me **cihan.firat44@gmail.com**
