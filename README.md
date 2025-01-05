@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/cihan fırat](https://www.linkedin.com/in/cihan-f%C4%B1rat-27362a237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihan fırat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cihan-f%C4%B1rat-27362a237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihan fırat" height="30" width="40" /></a>
 <a href="https://kaggle.com/cihanfrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cihanfrat" height="30" width="40" /></a>
 <a href="https://instagram.com/cihanffirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cihanffirat" height="30" width="40" /></a>
 </p>
